@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'FrutigerLTW05-65Bold';
+    src: url('FrutigerLTW05-65Bold.eot');
+    src: url('FrutigerLTW05-65Bold.eot?#iefix') format('embedded-opentype'),
+        url('FrutigerLTW05-65Bold.woff2') format('woff2'),
+        url('FrutigerLTW05-65Bold.woff') format('woff'),
+        url('FrutigerLTW05-65Bold.ttf') format('truetype'),
+        url('FrutigerLTW05-65Bold.svg#FrutigerLTW05-65Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FrutigerLTW04-45Light';
+    src: url('FrutigerLTW04-45Light.eot');
+    src: url('FrutigerLTW04-45Light.eot?#iefix') format('embedded-opentype'),
+        url('FrutigerLTW04-45Light.woff2') format('woff2'),
+        url('FrutigerLTW04-45Light.woff') format('woff'),
+        url('FrutigerLTW04-45Light.ttf') format('truetype'),
+        url('FrutigerLTW04-45Light.svg#FrutigerLTW04-45Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
